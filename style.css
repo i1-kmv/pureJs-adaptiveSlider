@@ -1,0 +1,13 @@
+.slider {
+  border: 2px solid;
+  max-width: 80%;
+  max-height: 40%;
+  margin: 20px auto;
+  overflow: hidden;
+}
+
+.slider-line {
+  display: flex;
+  background-color: orange;
+  transition: all ease 1s;
+}
